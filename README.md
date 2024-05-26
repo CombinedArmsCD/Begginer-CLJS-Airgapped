@@ -5,7 +5,7 @@ These are notes and instructions on how to build a Clojurescript React dev envir
 ### Requirements
 1. You want to use Clojurescript to build a responsive webpage
 2. React is required
-3. YOU ARE UNABLE (or don't want to) US NPM
+3. YOU ARE UNABLE (or don't want to) USE NPM
 
 ### NPM concern
 Development is fast in this day an age, but there is a real concern about using external libraries.
